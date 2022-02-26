@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ackheron&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 <p>
-  <strong>Hello, I'm Christophe,</strong> Freelance web developer from<img src="https://fr.freepik.com/icones-gratuites/france_14267878.htm#query=france%20drapeau&position=30&from_view=search" width="13"/> <b>France</b>.
+  <strong>Hello, I'm Christophe,</strong> Freelance web developer from<img src="https://github.com/ackheron/ackheron/blob/master/imgGit/france.png" width="13"/> <b>France</b>.
 </p>
 <h3>Various techs I use</h3>
 <p>
