@@ -7,7 +7,7 @@
  
 </p>
 <div>
- <p>
+ <p align="center">
   <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Ackheron&show_icons=true&theme=graywhite" alt="Github Stats" />
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ackheron&layout=compact&theme=graywhite" alt="Top languages" />
 </p>
