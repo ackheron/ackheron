@@ -7,9 +7,10 @@
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ackheron&layout=compact&theme=graywhite" alt="Top languages" />
 </p>
 
-<p>
+<p align="left">
   <strong>Hello, I'm Christophe,</strong> Freelance web developer from <img src="https://github.com/ackheron/ackheron/blob/master/imgGit/france.png" width="20"/> <b> France</b>.
 </p>
+
 <h3>Various techs I use</h3>
 <p>
   <a href="https://www.flaticon.com/fr/icones-gratuites/france" title="france icônes">France icônes créées par Freepik - Flaticon</a>
