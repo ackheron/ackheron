@@ -1,13 +1,19 @@
  <p align="center">
   <img src="https://github.com/ackheron/ackheron/blob/master/imgGit/avatar.png" alt="Christophe Romand" height="200"/>
  </p>
-                                                                                                                            
+ </br>  
+ 
+
+<p align="center">
+  <strong>Hello, I'm Christophe,</strong> Freelance web developer from <img src="https://github.com/ackheron/ackheron/blob/master/imgGit/france.png" width="20"/> <b> France</b>.
+ 
+</p>
  <p>
   <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Ackheron&show_icons=true&theme=graywhite" alt="Github Stats" />
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ackheron&layout=compact&theme=graywhite" alt="Top languages" />
 </p>
 
-<p align="left">
+<p align="center">
   <strong>Hello, I'm Christophe,</strong> Freelance web developer from <img src="https://github.com/ackheron/ackheron/blob/master/imgGit/france.png" width="20"/> <b> France</b>.
 </p>
 
