@@ -1,8 +1,10 @@
+ <p>
   <img src="https://github.com/ackheron/ackheron/blob/master/imgGit/avatar.png" alt="Christophe Romand" height="200" align="center/>
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Ackheron&show_icons=true&theme=graywhite" alt="Github Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ackheron&layout=compact&theme=graywhite" alt="Top languages" />
+ </p>
+                                                                                                                            
+ <p>
+  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Ackheron&show_icons=true&theme=graywhite" alt="Github Stats" />
+    <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ackheron&layout=compact&theme=graywhite" alt="Top languages" />
 </p>
 
 <p>
