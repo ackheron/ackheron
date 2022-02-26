@@ -1,7 +1,6 @@
-### Hi there 👋
 
 <p align="center">
-  <img src="" alt="Nicolas Brondin-Bernard" height="200" style="margin-right: 20px"/>
+  <img src="https://github.com/ackheron/ackheron/blob/master/imgGit/avatar.png" alt="Christophe Romand" height="200" style="margin-right: 20px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Ackheron&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 <p>
@@ -17,7 +16,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
 
 </p>
 
@@ -31,12 +30,7 @@
 </p>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ---> My portfolio
+- 🌱 I’m currently learning ---> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=fflat-square&logo=react&logoColor=%2361DAFB" />
+
 -->
