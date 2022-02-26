@@ -6,15 +6,17 @@
   <strong>Hello, I'm Christophe,</strong> Freelance web developer from <img src="https://github.com/ackheron/ackheron/blob/master/imgGit/france.png" width="20"/> <b> France</b>.
  
 </p>
+<div>
  <p>
   <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Ackheron&show_icons=true&theme=graywhite" alt="Github Stats" />
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ackheron&layout=compact&theme=graywhite" alt="Top languages" />
 </p>
+</div>
 
 </br>
-
-<h3 align=c"center">Various techs I use</h3>
-<p>
+<div>
+ <h3>Various techs I use</h3>
+ <p>
   <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=white" />  
   <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -23,8 +25,8 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-
-</p>
+ </p>
+</div>
 
   <h3>Where to find me</h3>
 <p>
