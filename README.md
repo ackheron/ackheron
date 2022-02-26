@@ -4,11 +4,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ackheron&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 <p>
-  <strong>Hello, I'm Christophe,</strong> Freelance web developer from<img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>France</b>.
+  <strong>Hello, I'm Christophe,</strong> Freelance web developer from<img src="https://fr.freepik.com/icones-gratuites/france_14267878.htm#query=france%20drapeau&position=30&from_view=search" width="13"/> <b>France</b>.
 </p>
 <h3>Various techs I use</h3>
 <p>
-  
+  <a href="https://www.flaticon.com/fr/icones-gratuites/france" title="france icônes">France icônes créées par Freepik - Flaticon</a>
   <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=white" />  
   <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
