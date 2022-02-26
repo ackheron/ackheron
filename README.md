@@ -10,10 +10,11 @@
   <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Ackheron&show_icons=true&theme=graywhite" alt="Github Stats" />
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ackheron&layout=compact&theme=graywhite" alt="Top languages" />
 </p>
+
 </br>
-<h3>Various techs I use</h3>
+
+<h3 align=c"center">Various techs I use</h3>
 <p>
-  <a href="https://www.flaticon.com/fr/icones-gratuites/france" title="france icônes">France icônes créées par Freepik - Flaticon</a>
   <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=white" />  
   <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
