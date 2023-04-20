@@ -8,7 +8,7 @@
 </p>
 <div>
  <p align="center">
-  <img align="left" width="450" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ackheron&show_icons=true&theme=gruvbox" alt="Github Stats" />
+  <img align="left" width="450" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ackheron&show_icons=true&theme=gruvbox&hide_title=true" alt="Github Stats" />
   <img align="right" width="350" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ackheron&layout=compact&theme=gruvbox" alt="Top languages" />
 </p>
 </div>
