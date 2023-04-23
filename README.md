@@ -6,6 +6,12 @@
   <strong>Hello, I'm Christophe,</strong> Freelance web developer from <img src="https://github.com/ackheron/ackheron/blob/master/imgGit/france.png" width="20"/> <b> France</b>.
  
 </p>
+<p align="center">
+French web developer and open source advocate, I'm specialized in Front-End and Back-End web development and I'm passionate about creating intuitive and powerful applications. On my GitLab, you will find a variety of personal and learning projects.
+If you want to know more about my projects and skills, don't hesitate to contact me. I'm always open to new web development opportunities and I'm ready to take on new challenges.
+</p>
+
+Translated with www.DeepL.com/Translator (free version)
 <div>
  <p align="center">
   <img align="left" width="450" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ackheron&show_icons=true&theme=gruvbox&hide_title=true" alt="Github Stats" />
