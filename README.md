@@ -7,7 +7,8 @@
  
 </p>
 <p align="center">
-French web developer and open source advocate, I'm specialized in Front-End and Back-End web development and I'm passionate about creating intuitive and powerful applications. On my GitLab, you will find a variety of personal and learning projects.
+I'm specialized in Front-End and Back-End web development and I'm passionate about creating intuitive and powerful applications. On my GitLab, you will find a variety of personal and learning projects.
+ I continue to train regularly to stay up to date on the latest trends and technologies in web development.
 If you want to know more about my projects and skills, don't hesitate to contact me. I'm always open to new web development opportunities and I'm ready to take on new challenges.
 </p>
 
